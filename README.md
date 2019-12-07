@@ -1,2 +1,2 @@
-# Avante-CBS
-Avqnte CoreBanking
+# E-Lending
+E-Lending
